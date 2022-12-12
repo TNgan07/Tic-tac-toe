@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/GUI/ExitGame.java=UTF-8
+encoding//src/GUI/MenuGame.java=UTF-8
+encoding//src/GUI/OWin.java=UTF-8
+encoding//src/GUI/XOWin.java=UTF-8
+encoding//src/GUI/XWin.java=UTF-8
+encoding//src/Minimax/MinimaxImproved.java=UTF-8
+encoding//src/Minimax/Minimax_Tic.java=UTF-8
+encoding//src/Tictactoe/board.java=UTF-8
